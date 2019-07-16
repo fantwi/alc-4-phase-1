@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about_alc">About ALC</string>
+    <string name="title_activity_my_profile">My Profile</string>
+    <string name="notification_error_ssl_cert_invalid">Click Continue to proceed to ALC About page</string>
+    <string name="main_welcome_message">Welcome to ALC 4.0</string>
+    <string name="profile_name">Frank Akrasi Antwi</string>
+    <string name="profile_track">Track:    Android</string>
+    <string name="profile_country">Country:    Ghana</string>
+    <string name="profile_email">Email:    fantwi@ucc.edu.gh</string>
+    <string name="profile_phone">Phone Number:    233244606528</string>
+    <string name="profile_slack_username">Slack Username:    @fantwi</string>
+</resources>
